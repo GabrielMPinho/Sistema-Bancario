@@ -1,0 +1,15 @@
+Menu inicial com:
+ - Add cliente
+ - Criar conta
+ - Acessar conta
+ - Sair
+
+ENTIDADES:
+    - Cliente (Nome, CPF, Conta) 
+    - Conta (CPF Cliente, Tipo(Poupança ou Corrente), Saldo (Default 0)) 
+
+OPERAÇÃO (Dentro da conta): 
+    - Depositar
+    - Sacar
+    - Ver extrato (+ Todas movimentações)
+    - Voltar ao menu
